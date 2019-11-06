@@ -1,4 +1,4 @@
-# Client code to get request data from server, API.
+# Client code to get the requested data from server, API.
 import json
 import requests
 import numpy as np
